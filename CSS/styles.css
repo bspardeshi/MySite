@@ -1,0 +1,66 @@
+/********************************TAG SELECTOR********************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/********************************CLASS SELECTOR********************************/
+.top-container {
+  background-color: #CDF0EA;
+  position: relative;
+  padding-top: 100px;
+  height: 100vh;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.atom {
+  width: 400px;
+  padding: 100px;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.profile-picture {
+  height: 250px;
+  width: 250px;
+}
+
+hr {
+  width: 300px;
+  height: 0px;
+  background-color: none;
+  color: darkgrey;
+  border: 20px;
+  border-style: dotted none none none;
+  margin: 40px auto;
+}
+
+.tools-picture {
+  height: 250px;
+  width: 250px;
+}
+
+.stock-market-picture {
+  margin-top: 25px;
+  height: 250px;
+  width: 250px;
+}
