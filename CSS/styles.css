@@ -1,8 +1,13 @@
 /********************************TAG SELECTOR********************************/
+html {
+  height: 100%;
+}
+
 body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  height: 100%;
 }
 
 h1 {
@@ -24,14 +29,15 @@ h3 {
   background-color: #CDF0EA;
   position: relative;
   padding-top: 100px;
-  }
+  height: 100%;
+}
 
 .pro {
   text-decoration: underline;
 }
 
 .atom {
-  width: 400px;
+  width: 25%;
   padding: 100px;
 }
 
@@ -40,8 +46,7 @@ h3 {
 }
 
 .profile-picture {
-  height: 250px;
-  width: 250px;
+  width: 12.5%;
 }
 
 hr {
@@ -55,12 +60,10 @@ hr {
 }
 
 .tools-picture {
-  height: 250px;
-  width: 250px;
+  width: 12.5%;
 }
 
 .stock-market-picture {
   margin-top: 25px;
-  height: 250px;
-  width: 250px;
+  width: 12.5%;
 }
