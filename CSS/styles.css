@@ -28,7 +28,7 @@ h3 {
 .top-container {
   background-color: #CDF0EA;
   position: relative;
-  padding-top: 100px;
+  padding-top: 10%;
   height: 100%;
 }
 
@@ -38,11 +38,11 @@ h3 {
 
 .atom {
   width: 25%;
-  padding: 100px;
+  padding: 5%;
 }
 
 .middle-container {
-  padding-top: 50px;
+  padding-top: 5%;
 }
 
 .profile-picture {
@@ -50,13 +50,13 @@ h3 {
 }
 
 hr {
-  width: 300px;
-  height: 0px;
+  width: 10%;
+  height: 0;
   background-color: none;
   color: darkgrey;
   border: 20px;
   border-style: dotted none none none;
-  margin: 40px auto;
+  margin: 3% auto;
 }
 
 .tools-picture {
@@ -64,6 +64,6 @@ hr {
 }
 
 .stock-market-picture {
-  margin-top: 25px;
+  margin-top: 3%;
   width: 12.5%;
 }
